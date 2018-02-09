@@ -2,6 +2,62 @@
 
     "Wallpapers":[
         
+        
+          {
+            "name":"Wall 8",
+            "author":"InsWall",
+            "url":"https://raw.githubusercontent.com/EdzonDM/Wall/master/Wall8.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/EdzonDM/Wall/master/Preview/Wall8.jpg",
+            "downloadable":false
+        },
+        
+        
+        {
+            "name":"Wall 7",
+            "author":"InsWall",
+            "url":"https://raw.githubusercontent.com/EdzonDM/Wall/master/Wall7.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/EdzonDM/Wall/master/Preview/Wall7.jpg",
+            "downloadable":false
+        },       
+        
+        
+        {
+            "name":"Wall 6",
+            "author":"InsWall",
+            "url":"https://raw.githubusercontent.com/EdzonDM/Wall/master/Wall6.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/EdzonDM/Wall/master/Preview/Wall6.jpg",
+            "downloadable":false
+        },
+        
+        
+        {
+            "name":"Wall 5",
+            "author":"InsWall",
+            "url":"https://raw.githubusercontent.com/EdzonDM/Wall/master/Wall5.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/EdzonDM/Wall/master/Preview/Wall5.jpg",
+            "downloadable":false
+        },       
+        
+        
+        
+         {
+            "name":"Wall 4",
+            "author":"InsWall",
+            "url":"https://raw.githubusercontent.com/EdzonDM/Wall/master/Wall4.png",
+            "thumbnail":"https://raw.githubusercontent.com/EdzonDM/Wall/master/Preview/Wall4.jpg",
+            "downloadable":false
+        },
+        
+        
+        {
+            "name":"Wall 3",
+            "author":"InsWall",
+            "url":"https://raw.githubusercontent.com/EdzonDM/Wall/master/Wall3.png",
+            "thumbnail":"https://raw.githubusercontent.com/EdzonDM/Wall/master/Preview/Wall3.jpg",
+            "downloadable":false
+        },       
+        
+        
         {
             "name":"Wall 2",
             "author":"InsWall",
