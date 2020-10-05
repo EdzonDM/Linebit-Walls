@@ -1,6 +1,4 @@
-{
-
-    "Wallpapers":[
+[
         
            {
             "name":"Wall 22",
@@ -187,7 +185,7 @@
         
         {
             "name":"Wall 2",
-            "author":"InsWall",
+            "author":"",
             "url":"https://raw.githubusercontent.com/EdzonDM/Wall/master/Wall2.png",
             "thumbnail":"https://raw.githubusercontent.com/EdzonDM/Wall/master/Preview/Wall2.jpg",
             "downloadable":true
@@ -196,10 +194,9 @@
         
         {
             "name":"Wall 1",
-            "author":"InsWall",
+            "author":"",
             "url":"https://raw.githubusercontent.com/EdzonDM/Wall/master/Wall1.png",
             "thumbnail":"https://raw.githubusercontent.com/EdzonDM/Wall/master/Preview/Wall1.jpg",
             "downloadable":true
         }
-    ]
-}
+]
